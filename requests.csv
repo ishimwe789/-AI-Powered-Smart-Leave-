@@ -1,0 +1,2 @@
+id,submitted_at,employee,email,leave_type,start_date,end_date,days,reason,urgent,ai_recommendation,ai_confidence,status,decided_at,admin_note
+1,2026-10-08 08:54,ishimwe cedrick,ishimwecedrick66@gmail.com,Annual Leave,2026-10-09,2026-10-09,1,Family visit in Huye for one week. I will hand over my duties to a colleague before leaving.,1,AI suggests: Approve,1.0,Pending,,
